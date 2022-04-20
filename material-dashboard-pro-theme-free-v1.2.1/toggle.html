@@ -1,0 +1,20 @@
+<!--
+ * @Description: 0810
+ * @Author: Yixin Li
+ * @Date: 2022-03-07 16:42:07
+ * @LastEditors: Yixin Li
+ * @LastEditTime: 2022-03-07 17:15:13
+-->
+<h1>toggle</h1>
+<button onclick="show(this)">on</button>
+<button onclick="show(this)">off</button>
+<script>
+var headers = document.getElementsByTagName("h1");
+function show(btn) {
+headers[0].innerText = btn.innerText
+}
+// function off() {
+// // var headers = document.getElementsByTagName("h1");
+// headers[0].innerText = 'off'
+// }
+</script>

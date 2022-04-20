@@ -1,0 +1,20 @@
+Fish number: 1
+Type: Bony
+Name: Fin
+Age: 32
+Weight: 20
+Hunger: 75
+
+Fish number: 2
+Type: Bony
+Name: Wisty
+Age: 14
+Weight: 11
+Hunger: 41
+
+Fish number: 3
+Type: Cartilaginous
+Name: Mejo
+Age: 15
+Weight: 10
+Hunger: 59
