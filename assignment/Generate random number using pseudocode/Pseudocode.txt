@@ -1,0 +1,7 @@
+declare integer ns[10];
+Loop i from 0 to 9
+    ns[i] = RANDOM_INT(1, 10)
+end Loop
+Loop i from 0 to 9
+    output ns[i]
+end Loop
