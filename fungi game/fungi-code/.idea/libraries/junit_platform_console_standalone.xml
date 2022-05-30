@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="junit-platform-console-standalone">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/junit-platform-console-standalone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
