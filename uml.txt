@@ -1,0 +1,14 @@
+Arrival
+------------------------------------------------
+- Flight myFlight
+- String sta
+- int runway
+- String gate
+- int delay
+- boolean landed
+------------------------------------------------
++ constructor
++ addDelay(int newDelay)
++ String getETA()
++ compareWith(String flightID)
++ compareWith(Arrival anotherArrival)
